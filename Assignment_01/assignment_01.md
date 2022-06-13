@@ -1,6 +1,8 @@
 ## [Quiz: 01]()
 Create Database 	: 	Records
 Create Table		: 	Emp
+
+
 ![Question](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Assignment_01/ScreenShots/q.PNG)
 
 Perform the following queries:
