@@ -4,7 +4,7 @@ Create Database 	: 	Records
 Create Table		: 	Emp
 
 
-![Question](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Assignment_01/ScreenShots/q.PNG)
+![Question](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/q.PNG)
 
 Perform the following queries:
 
@@ -78,3 +78,42 @@ DROP TABLE Emp;
 ```
 DROP DATABASE quiz
 ```
+### Complete Query:
+```
+
+```
+### ScreenShots:
+#### Question: 01
+![Q1](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/q1.PNG)
+#### Question: 02
+![Q2](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/q2.PNG)
+#### Question: 03
+![Q3](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/q3.PNG)
+#### Question: 04
+![Q](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/q4.PNG)
+#### Question: 05
+![Q5](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/q5.PNG)
+#### Question: 06
+![Q6](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/q6.PNG)
+#### Question: 07
+![Q7](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/q7.PNG)
+#### Question: 08
+![Q8](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/q8.PNG)
+#### Question: 09
+![Q9](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/q9.PNG)
+#### Question: 10
+![Q10](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/10.PNG)
+#### Question: 11
+![Q11](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/11.PNG)
+#### Question: 12
+![Q12](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/12.PNG)
+#### Question: 13
+![Q13](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/13.PNG)
+#### Question: 14
+![Q14](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/14.PNG)
+#### Question: 15
+![Q15](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/15.PNG)
+#### Question: 16
+![Q16](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/16.PNG)
+#### Question: 17
+![Q17](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/17.PNG)
