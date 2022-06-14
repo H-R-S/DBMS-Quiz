@@ -102,18 +102,18 @@ DROP DATABASE quiz
 #### Question: 09
 ![Q9](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/q9.PNG)
 #### Question: 10
-![Q10](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/10.PNG)
+![Q10](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/q10.PNG)
 #### Question: 11
-![Q11](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/11.PNG)
+![Q11](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/q11.PNG)
 #### Question: 12
-![Q12](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/12.PNG)
+![Q12](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/q12.PNG)
 #### Question: 13
-![Q13](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/13.PNG)
+![Q13](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/q13.PNG)
 #### Question: 14
-![Q14](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/14.PNG)
+![Q14](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/q14.PNG)
 #### Question: 15
-![Q15](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/15.PNG)
+![Q15](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/q15.PNG)
 #### Question: 16
-![Q16](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/16.PNG)
+![Q16](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/q16.PNG)
 #### Question: 17
-![Q17](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/17.PNG)
+![Q17](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/ScreenShots/q17.PNG)
