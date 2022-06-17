@@ -3,6 +3,7 @@
 #### DBMS Manual (Solved) : [DBMS-Manual](https://github.com/H-R-S/DBMS-Manual/blob/main/README.md)
 
 ## [Quiz: 01](https://github.com/H-R-S/DBMS-Quiz-AND-Assignments/blob/main/Quiz_01/quiz_01.md)
+
 Create Database 	: 	Records
 
 Create Table		: 	Emp
