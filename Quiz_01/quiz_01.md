@@ -156,7 +156,7 @@ DELETE FROM emp;
 /*16.Write a query to delete table Emp.*/
 DROP TABLE Emp;
 
-/*Write a query to delete the database.*/
+/*17.Write a query to delete the database.*/
 DROP DATABASE quiz
 ```
 ### ScreenShots:
