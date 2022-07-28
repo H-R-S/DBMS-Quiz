@@ -1,4 +1,4 @@
-# DBMS Quiz & Assignments (Solved)
+# DBMS Quiz (Solved)
 
 #### DBMS Manual (Solved) : [DBMS-Manual](https://github.com/H-R-S/DBMS-Manual/blob/main/README.md)
 
